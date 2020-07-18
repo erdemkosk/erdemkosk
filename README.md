@@ -1,5 +1,5 @@
 ## Hey there...
-I'm a **Back-end Developer** with computer engineering background. Enthusiastic software engineer with 5+ years experience participating in the complete product development lifecycle of successfully launched applications.
+I'm a **Back-end Developer** with computer engineering background. Enthusiastic computer engineer with 5+ years experience participating in the complete product development lifecycle of successfully launched applications.
 
 Thanks to the different projects I have been involved in, I have obtained a wide range of different information.
 
