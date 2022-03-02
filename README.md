@@ -15,6 +15,8 @@ Feel free to:
 
 You can also view my open source projects below.
 
+![Logo](https://i.imgur.com/z6YHS5I.png)
+
 ### Languages and Tools
 <p align="left">
   <img src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="docker" width="40" height="40"/>
