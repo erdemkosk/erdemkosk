@@ -18,8 +18,7 @@ Feel free to:
 <div align=center>
    
     ### 💻 Languages, Frameworks, Tools
-    <br />
-<br />
+   
 <table>
     <tr>
         <td colspan="8">
