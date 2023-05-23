@@ -1,7 +1,7 @@
 
 <div align=center>
    
-[![Typing SVG]([![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=EA538D&width=441&lines=Follow+the+white+rabbit+%2C+Neo+...)](https://git.io/typing-svg))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=EA538D&width=441&lines=Follow+the+white+rabbit+%2C+Neo+...)](https://git.io/typing-svg)
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=erdemkosk" style="max-width:100%;">
 
