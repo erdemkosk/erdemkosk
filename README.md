@@ -16,6 +16,7 @@ Feel free to:
 <br />
 
 <div align=center>
+   
     ### 💻 Languages, Frameworks, Tools
     <br />
 <br />
@@ -68,7 +69,6 @@ Feel free to:
 </table>
 
     <br />
-<br />
     
 ### ⌨️  Top Repositories
 
