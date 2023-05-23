@@ -17,7 +17,7 @@ Feel free to:
 
 <div align=center>
    
-   ### ⌨️  Top Repositories
+   ### 💻  Skills
    
 <table>
     <tr>
