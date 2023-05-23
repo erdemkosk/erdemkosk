@@ -60,6 +60,18 @@ Feel free to:
         </td>
     </tr>
 </table>
+#### Top Repositories
+
+
+<a href="https://github.com/erdemkosk/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erdemkosk&repo=github-readme-stats&theme=radical" />
+</a>
+<a href="https://github.com/erdemkosk/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erdemkosk&repo=anuraghazra.github.io&theme=radical" />
+</a>
+
+<br />
+<br />
 
 
 ### ✍🏻 Medium Blogs
