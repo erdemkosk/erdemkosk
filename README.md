@@ -63,11 +63,11 @@ Feel free to:
 #### Top Repositories
 
 
-<a href="https://github.com/erdemkosk/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erdemkosk&repo=github-readme-stats&theme=radical" />
+<a href="https://github.com/erdemkosk/rabbitmq-mail-consumer-server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erdemkosk&repo=rabbitmq-mail-consumer-server&theme=radical" />
 </a>
-<a href="https://github.com/erdemkosk/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erdemkosk&repo=anuraghazra.github.io&theme=radical" />
+<a href="https://github.com/erdemkosk/jet-file-transfer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erdemkosk&repo=jet-file-transfer&theme=radical" />
 </a>
 
 <br />
