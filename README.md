@@ -17,7 +17,7 @@ Feel free to:
 
 <div align=center>
    
-    ### 💻 Languages, Frameworks, Tools
+   ### ⌨️  Top Repositories
    
 <table>
     <tr>
@@ -66,8 +66,6 @@ Feel free to:
         </td>
     </tr>
 </table>
-
-    <br />
     
 ### ⌨️  Top Repositories
 
