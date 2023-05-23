@@ -1,7 +1,7 @@
 
 <div align=center>
    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDC410&width=435&lines=Hi+there...+Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG]([![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=EA538D&width=441&lines=Follow+the+white+rabbit+%2C+Neo+...)](https://git.io/typing-svg))](https://git.io/typing-svg)
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=erdemkosk" style="max-width:100%;">
 
@@ -9,7 +9,7 @@
 I'm a **Senior Backend Developer** with computer engineering background. Enthusiastic computer engineer with 8+ years experience participating in the complete product development lifecycle of successfully launched applications.
 Thanks to the different projects I have been involved in, I have obtained a wide range of different information.
 
-Feel free to:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erdemkosk/)
 [![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@erdemkosk)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/erdemkosk/)
