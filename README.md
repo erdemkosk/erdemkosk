@@ -88,9 +88,9 @@ Feel free to:
 
 ### ✍🏻 Medium Blogs
 
-[![AB Satyaprakash Medium](https://github-readme-medium.vercel.app/?username=erdemkosk&limit=3)](https://medium.com/@erdemkosk)
+[![Erdem Köşk Medium](https://github-readme-medium.vercel.app/?username=erdemkosk&limit=3&theme=radical)](https://medium.com/@erdemkosk)
 
-[➡️ more blogs...](https://absatyaprakash01.medium.com/)
+[➡️ more blogs...](https://erdemkosk.medium.com/)
 
 ---
 
