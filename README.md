@@ -30,7 +30,10 @@ Thanks to the different projects I have been involved in, I have obtained a wide
         <img src="https://img.icons8.com/color/480/000000/mongodb.png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/javascript.png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/typescript.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/c-sharp-logo.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/redis.png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/docker.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/amazon-web-services.png" width=50></a>
         </td>
     </tr>
 </table>
