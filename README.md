@@ -71,15 +71,6 @@ Thanks to the different projects I have been involved in, I have obtained a wide
 </a>
 
 
-### ✍🏻 Medium Blogs
-
-[![Erdem Köşk Medium](https://github-readme-medium.vercel.app/?username=erdemkosk&limit=3&theme=radical)](https://medium.com/@erdemkosk)
-
-[➡️ more blogs...](https://erdemkosk.medium.com/)
-
----
-
-
 
 
 
