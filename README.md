@@ -12,10 +12,13 @@ Feel free to:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/erdemkosk/)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erdemkosk/)
 
-
-### 💻 Languages, Frameworks, Tools
+<br />
+<br />
 
 <div align=center>
+    ### 💻 Languages, Frameworks, Tools
+    <br />
+<br />
 <table>
     <tr>
         <td colspan="8">
@@ -34,6 +37,9 @@ Feel free to:
         </td>
     </tr>
 </table>
+
+<br />
+<br />
 
 <div align=center>
 
@@ -61,6 +67,8 @@ Feel free to:
     </tr>
 </table>
 
+    <br />
+<br />
     
 ### ⌨️  Top Repositories
 
