@@ -19,6 +19,9 @@ Feel free to:
    
    ### 💻  Skills
    
+<br />
+<br />
+   
 <table>
     <tr>
         <td colspan="8">
@@ -66,6 +69,9 @@ Feel free to:
         </td>
     </tr>
 </table>
+   
+<br />
+<br />
     
 ### ⌨️  Top Repositories
 
