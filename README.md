@@ -1,3 +1,6 @@
+
+<div align=center>
+   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CDC410&width=435&lines=Hi+there...+Nice+to+meet+you!)](https://git.io/typing-svg)
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=erdemkosk" style="max-width:100%;">
@@ -11,11 +14,6 @@ Feel free to:
 [![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@erdemkosk)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/erdemkosk/)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erdemkosk/)
-
-<br />
-<br />
-
-<div align=center>
    
    ### 💻  Skills
    
