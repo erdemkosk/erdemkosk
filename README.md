@@ -12,18 +12,10 @@ Feel free to:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/erdemkosk/)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erdemkosk/)
 
-### 📈 GitHub Stats 
-
-[![AB's github stats](https://github-readme-stats.vercel.app/api?username=erdemkosk&count_private=true&show_icons=true)](https://github.com/erdemkosk/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdemkosk&layout=compact&langs_count=10)](https://github.com/erdemkosk/github-readme-stats)
-
-
-
-### ⚡️ If You want to support me!
-<a href="https://www.buymeacoffee.com/erdemkosk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ### 💻 Languages, Frameworks, Tools
 
+<div align=center>
 <table>
     <tr>
         <td colspan="8">
@@ -32,12 +24,11 @@ Feel free to:
     </tr>
         <tr>
         <td colspan="8">
-        <img src="https://img.icons8.com/color/480/000000/nodejs.png" width=50></a>
+         <img src="https://img.icons8.com/color/480/000000/nodejs.png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/git.png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/golang.png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/mongodb.png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/javascript.png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/java.png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/typescript.png" width=50></a>
         <img src="https://img.icons8.com/color/480/000000/docker.png" width=50></a>
         </td>
@@ -45,24 +36,6 @@ Feel free to:
 </table>
 
 <div align=center>
-<table>
-    <tr>
-        <td colspan="8">
-        <strong><samp>Side Skills:</samp></strong>
-        </td>
-    </tr>
-        <tr>
-        <td colspan="8">
-        <img src="https://img.icons8.com/color/480/000000/adobe-premiere-pro.png" width=50></a>     
-        <img src="https://img.icons8.com/color/480/000000/visual-studio-code-2019.png" width=50></a>     
-        <img src="https://img.icons8.com/color/480/000000/javascript.png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/html-5.png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/css3.png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/bootstrap.png" width=50></a>
-        <img src="https://img.icons8.com/color/480/000000/python.png" width=50></a>
-        </td>
-    </tr>
-</table>
 
 <br>
 <table>
@@ -71,7 +44,7 @@ Feel free to:
         <strong><samp>Stats:</samp></strong>
         </td>
         <td colspan="2">
-        <strong><samp>Top Langs:</samp></strong>
+        <strong><samp>Streak:</samp></strong>
         </td>
     </tr>
     <tr>
@@ -81,9 +54,8 @@ Feel free to:
         </a>
         </td>
         <td colspan="2" rowspan="2">
-           
-        <a href=" https://github-readme-stats.vercel.app/api/top-langs/?username=erdemkosk&hide_border=true&theme=radical_count=10">
-        <img src=" https://github-readme-stats.vercel.app/api/top-langs/?username=erdemkosk&hide_border=true&theme=radical_count=10">
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=erdemkosk&hide_border=true&theme=radical">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=erdemkosk&hide_border=true&theme=radical">
         </a>
         </td>
     </tr>
