@@ -44,6 +44,51 @@ Feel free to:
     </tr>
 </table>
 
+<div align=center>
+<table>
+    <tr>
+        <td colspan="8">
+        <strong><samp>Side Skills:</samp></strong>
+        </td>
+    </tr>
+        <tr>
+        <td colspan="8">
+        <img src="https://img.icons8.com/color/480/000000/adobe-premiere-pro.png" width=50></a>     
+        <img src="https://img.icons8.com/color/480/000000/visual-studio-code-2019.png" width=50></a>     
+        <img src="https://img.icons8.com/color/480/000000/javascript.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/html-5.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/css3.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/bootstrap.png" width=50></a>
+        <img src="https://img.icons8.com/color/480/000000/python.png" width=50></a>
+        </td>
+    </tr>
+</table>
+
+<br>
+<table>
+    <tr>
+        <td colspan="2">
+        <strong><samp>Stats:</samp></strong>
+        </td>
+        <td colspan="2">
+        <strong><samp>Top Langs:</samp></strong>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" rowspan="2">
+        <a href="https://github-readme-stats.vercel.app/api?username=erdemkosk&count_private=true&hide_border=true&show_icons=true&theme=radical">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=erdemkosk&count_private=true&hide_border=true&show_icons=true&theme=radical">
+        </a>
+        </td>
+        <td colspan="2" rowspan="2">
+           
+        <a href=" https://github-readme-stats.vercel.app/api/top-langs/?username=erdemkosk&hide_border=true&theme=radical_count=10">
+        <img src=" https://github-readme-stats.vercel.app/api/top-langs/?username=erdemkosk&hide_border=true&theme=radical_count=10">
+        </a>
+        </td>
+    </tr>
+</table>
+
 
 ### ✍🏻 Medium Blogs
 
