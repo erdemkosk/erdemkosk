@@ -16,10 +16,6 @@ Feel free to:
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erdemkosk/)
    
    ### 💻  Skills
-   
-<br />
-<br />
-   
 <table>
     <tr>
         <td colspan="8">
@@ -38,9 +34,6 @@ Feel free to:
         </td>
     </tr>
 </table>
-
-<br />
-<br />
 
 <div align=center>
 
@@ -67,9 +60,6 @@ Feel free to:
         </td>
     </tr>
 </table>
-   
-<br />
-<br />
     
 ### ⌨️  Top Repositories
 
@@ -79,9 +69,6 @@ Feel free to:
 <a href="https://github.com/erdemkosk/jet-file-transfer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erdemkosk&repo=jet-file-transfer&theme=radical" />
 </a>
-
-<br />
-<br />
 
 
 ### ✍🏻 Medium Blogs
