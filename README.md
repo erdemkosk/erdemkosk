@@ -15,6 +15,7 @@ Thanks to the different projects I have been involved in, I have obtained a wide
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erdemkosk/)
  
 ### 🔧 Skills
+   
       </td>
    </tr>
    <tr>
