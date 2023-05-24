@@ -55,8 +55,9 @@ Thanks to the different projects I have been involved in, I have obtained a wide
       </td>
    </tr>
 </table>
-### ⌨️  Top Repositories
-   </br>
+
+### ⌨️ Top Repositories
+   
 <table>
    <tr>
       <td colspan="2" rowspan="2">
