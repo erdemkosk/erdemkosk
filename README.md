@@ -56,6 +56,7 @@ Thanks to the different projects I have been involved in, I have obtained a wide
    </tr>
 </table>
 ### ⌨️  Top Repositories
+   </br>
 <table>
    <tr>
       <td colspan="2" rowspan="2">
@@ -68,6 +69,10 @@ Thanks to the different projects I have been involved in, I have obtained a wide
          <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=erdemkosk&repo=jet-file-transfer&theme=radical" />
          </a>
       </td>
+   </tr>
+</table>
+<table>
+   <tr>
       <td colspan="2" rowspan="2">
          <a href="https://github.com/erdemkosk/typescript-express-boilerplate ">
          <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=erdemkosk&repo=typescript-express-boilerplate&theme=radical" />
