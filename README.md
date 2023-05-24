@@ -65,19 +65,38 @@ Thanks to the different projects I have been involved in, I have obtained a wide
 </table>
     
 ### ⌨️  Top Repositories
-
+   
+ <table>
+    <tr>
+        <td colspan="2" rowspan="2">
 <a href="https://github.com/erdemkosk/rabbitmq-mail-consumer-server">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=erdemkosk&repo=rabbitmq-mail-consumer-server&theme=radical" />
 </a>
-<a href="https://github.com/erdemkosk/jet-file-transfer">
+        </td>
+        <td colspan="2" rowspan="2">
+       <a href="https://github.com/erdemkosk/jet-file-transfer">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=erdemkosk&repo=jet-file-transfer&theme=radical" />
 </a>
-<a href="https://github.com/erdemkosk/typescript-express-boilerplate ">
+        </td>
+       
+       <td colspan="2" rowspan="2">
+       <a href="https://github.com/erdemkosk/typescript-express-boilerplate ">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=erdemkosk&repo=typescript-express-boilerplate&theme=radical" />
 </a>
+        </td>
+       
+       <td colspan="2" rowspan="2">
+       
 <a href="https://github.com/erdemkosk/coeus ">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=erdemkosk&repo=coeus&theme=radical" />
 </a>
+        </td>
+    </tr>
+</table>
+
+
+
+
 
 
 
