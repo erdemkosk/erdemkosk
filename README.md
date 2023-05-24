@@ -72,12 +72,7 @@ Thanks to the different projects I have been involved in, I have obtained a wide
 <a href="https://github.com/erdemkosk/jet-file-transfer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erdemkosk&repo=jet-file-transfer&theme=radical" />
 </a>
-<a href="https://github.com/erdemkosk/ts_transactional_paterns">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erdemkosk&repo=ts_transactional_paterns&theme=radical" />
-</a>
-<a href="https://github.com/erdemkosk/typescript-express-boilerplate ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erdemkosk&repo=typescript-express-boilerplate &theme=radical" />
-</a>
+
 
 
 
