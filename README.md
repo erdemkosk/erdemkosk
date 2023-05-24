@@ -16,7 +16,7 @@ Thanks to the different projects I have been involved in, I have obtained a wide
  
 ### 🔧 Skills
    
-      </td>
+ </td>
    </tr>
    <tr>
       <td colspan="8">
