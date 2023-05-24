@@ -13,7 +13,8 @@ Thanks to the different projects I have been involved in, I have obtained a wide
 [![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@erdemkosk)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/erdemkosk/)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erdemkosk/)
-         <strong><samp>Skills:</samp></strong>
+ 
+<strong><samp>Skills:</samp></strong>
       </td>
    </tr>
    <tr>
