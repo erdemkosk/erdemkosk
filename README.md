@@ -5,7 +5,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=erdemkosk" style="max-width:100%;">
 
 ### ⚡️ A quick introduction
-I'm a **Senior Backend Developer** with computer engineering background. Enthusiastic computer engineer with 8+ years experience participating in the complete product development lifecycle of successfully launched applications.
+I'm a **Senior Backend Developer** with computer engineering background. Enthusiastic computer engineer with 9+ years experience participating in the complete product development lifecycle of successfully launched applications.
 Thanks to the different projects I have been involved in, I have obtained a wide range of different information.
 
 
@@ -27,7 +27,8 @@ Thanks to the different projects I have been involved in, I have obtained a wide
          <img src="https://img.icons8.com/color/480/000000/mongodb.png" width=50></a>
          <img src="https://img.icons8.com/color/480/000000/javascript.png" width=50></a>
          <img src="https://img.icons8.com/color/480/000000/typescript.png" width=50></a>
-         <img src="https://img.icons8.com/color/480/000000/c-sharp-logo.png" width=50></a>
+         <img src="https://www.trisotech.com/wp-content/uploads/kafka-icon.png" width=50></a>
+         <img src="https://media.graphcms.com/IrjklAijRva1sFTat0pO" width=50></a>
          <img src="https://img.icons8.com/color/480/000000/redis.png" width=50></a>
          <img src="https://img.icons8.com/color/480/000000/docker.png" width=50></a>
          <img src="https://img.icons8.com/color/480/000000/amazon-web-services.png" width=50></a>
