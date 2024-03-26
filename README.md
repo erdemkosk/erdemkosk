@@ -60,18 +60,18 @@ Thanks to the different projects I have been involved in, I have obtained a wide
    </tr>
 </table>
 
-### ⌨️ Top Repositories
+### ⌨️ Worth checking out
    
 <table>
    <tr>
       <td colspan="2" rowspan="2">
-         <a href="https://github.com/erdemkosk/rabbitmq-mail-consumer-server">
-         <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=erdemkosk&repo=rabbitmq-mail-consumer-server&theme=radical" />
+         <a href="https://github.com/erdemkosk/quiz_it_frontend">
+         <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=erdemkosk&repo=quiz_it_frontend&theme=radical" />
          </a>
       </td>
       <td colspan="2" rowspan="2">
-         <a href="https://github.com/erdemkosk/jet-file-transfer">
-         <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=erdemkosk&repo=jet-file-transfer&theme=radical" />
+         <a href="https://github.com/erdemkosk/go-concurrency-patterns">
+         <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=erdemkosk&repo=go-concurrency-patterns&theme=radical" />
          </a>
       </td>
    </tr>
@@ -79,13 +79,13 @@ Thanks to the different projects I have been involved in, I have obtained a wide
 <table>
    <tr>
       <td colspan="2" rowspan="2">
-         <a href="https://github.com/erdemkosk/typescript-express-boilerplate ">
-         <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=erdemkosk&repo=typescript-express-boilerplate&theme=radical" />
+         <a href="https://github.com/erdemkosk/network-pocket">
+         <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=erdemkosk&repo=network-pocket&theme=radical" />
          </a>
       </td>
       <td colspan="2" rowspan="2">     
-         <a href="https://github.com/erdemkosk/coeus ">
-         <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=erdemkosk&repo=coeus&theme=radical" />
+         <a href="https://github.com/erdemkosk/ts_transactional_paterns ">
+         <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=erdemkosk&repo=ts_transactional_paterns&theme=radical" />
          </a>
       </td>
    </tr>
