@@ -65,8 +65,8 @@ Thanks to the different projects I have been involved in, I have obtained a wide
 <table>
    <tr>
       <td colspan="2" rowspan="2">
-         <a href="https://github.com/erdemkosk/quiz_it_frontend">
-         <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=erdemkosk&repo=quiz_it_frontend&theme=radical" />
+         <a href="https://github.com/erdemkosk/obey-the-rule">
+         <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=erdemkosk&repo=obey-the-rule&theme=radical" />
          </a>
       </td>
       <td colspan="2" rowspan="2">
