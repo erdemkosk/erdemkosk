@@ -84,8 +84,8 @@ Thanks to the different projects I have been involved in, I have obtained a wide
          </a>
       </td>
       <td colspan="2" rowspan="2">     
-         <a href="https://github.com/erdemkosk/envolve-go ">
-         <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=erdemkosk&repo=envolve-go&theme=radical" />
+         <a href="https://github.com/erdemkosk/envolve-ts ">
+         <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=erdemkosk&repo=envolve-ts&theme=radical" />
          </a>
       </td>
    </tr>
