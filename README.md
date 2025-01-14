@@ -90,3 +90,17 @@ Thanks to the different projects I have been involved in, I have obtained a wide
       </td>
    </tr>
 </table>
+<table>
+   <tr>
+      <td colspan="2" rowspan="2">
+         <a href="https://github.com/erdemkosk/ignore-me">
+         <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=erdemkosk&repo=ignore-me&theme=radical" />
+         </a>
+      </td>
+      <td colspan="2" rowspan="2">     
+         <a href="https://github.com/erdemkosk/fiber-fx-boilerplate">
+         <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=erdemkosk&repo=fiber-fx-boilerplate&theme=radical" />
+         </a>
+      </td>
+   </tr>
+</table>
